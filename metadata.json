@@ -1,0 +1,5 @@
+{
+  "name": "Remix: SurgiPlan AI",
+  "description": "AI-powered surgical motion planner and simulator using Cosmos Reason2 and Gemini.",
+  "requestFramePermissions": []
+}
